@@ -19,3 +19,5 @@
 - Terminal: using pywal with the wallpaper
 
 - [Neofetch](https://github.com/chick2d/neofetch-themes/blob/main/normal/hybridfetch.conf)
+
+### Open an issue for any help.
